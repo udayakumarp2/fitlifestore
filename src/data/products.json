@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Chocolate Fitlife MilkShake",
+      "description":
+        "This milkshake tastes good and doesn't give you horrible diarrehea",
+      "keywords": ["chocolate milkshake"],
+      "image": "chocshake.jpg",
+
+      "price": 5
+    },
+    {
+      "id": 2,
+      "name": "Fitlife Cookies",
+      "description": "These cookies are delicious and healthy!",
+      "keywords": ["cookies"],
+      "image": "cookies.jpg",
+
+      "price": 7
+    },
+    {
+      "id": 3,
+      "name": "Fitlife Cranberry Cereal",
+      "description": "This is good if you're constipated and need fiber!",
+      "keywords": ["cranberryflax"],
+      "image": "cranberryflax.jpg",
+
+      "price": 10
+    },
+    {
+      "id": 4,
+      "name": "Fitlife Crunch Cookies",
+      "description": "This is a spin on our traditional cookies",
+      "keywords": ["crunch"],
+      "image": "crunch.jpg",
+
+      "price": 10
+    },
+    {
+      "id": 5,
+      "name": "Fitlife Energy Bite Mix",
+      "description": "This will give you energy for your workouts",
+      "keywords": ["cookies"],
+      "image": "energybitemix.jpg",
+
+      "price": 8
+    },
+    {
+      "id": 6,
+      "name": "Fitlife Granola Bars",
+      "description": "These are Fitlife's premier granola bars",
+      "keywords": ["granola"],
+      "image": "honeybarbox.jpg",
+
+      "price": 5
+    },
+    {
+      "id": 7,
+      "name": "Fitlife breakfast bars",
+      "description": "This is a Fitlife breakfast energy bar.",
+      "keywords": ["breakfast bars"],
+      "image": "honeyflaxbar.jpg",
+
+      "price": 5
+    },
+    {
+      "id": 8,
+      "name": "Fitlife Crunch Cookies",
+      "description": "These",
+      "keywords": ["cookies"],
+      "image": "honeypecanbar.jpg",
+
+      "price": 10
+    },
+    {
+      "id": 9,
+      "name": "Fitlife Nut Butter cookies",
+      "description": "Peanut butter and nuts in our special cookies",
+      "keywords": ["cookies"],
+      "image": "nutbutter.jpg",
+
+      "price": 7
+    },
+    {
+      "id": 10,
+      "name": "Fitlife Protein Powder",
+      "description": "This is our classic whey protein powder.",
+      "keywords": ["protein", "whey", "jacked"],
+      "image": "proteinpowder.jpg",
+
+      "price": 8
+    },
+    {
+      "id": 11,
+      "name": "Fitlife Vanilla Milkshake",
+      "description": "This is our vanilla flavored health milkshake.",
+      "keywords": ["milkshake"],
+      "image": "vanillashake.jpg",
+
+      "price": 5
+    }
+  ]
+}
