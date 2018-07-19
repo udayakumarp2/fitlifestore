@@ -4,3 +4,6 @@
 ## The cart page contains all the logic pertaining to the quantity and prices of the products.
 ![cart](https://user-images.githubusercontent.com/31020465/42906874-457bdfc2-8aaa-11e8-9fc6-c3b29dd298ce.PNG)
 
+#This is the link to the app:
+https://fitlifestore.herokuapp.com/
+
